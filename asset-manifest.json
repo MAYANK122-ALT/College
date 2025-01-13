@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/College/static/css/main.6fb520a3.css",
+    "main.js": "/College/static/js/main.859b2a05.js",
+    "static/js/488.5649a9e0.chunk.js": "/College/static/js/488.5649a9e0.chunk.js",
+    "static/media/home1.jpeg": "/College/static/media/home1.9edf3fd9e2397c8d7d54.jpeg",
+    "static/media/home3.jpg": "/College/static/media/home3.178e10914ffcf0d76b85.jpg",
+    "static/media/hero2.jpg": "/College/static/media/hero2.9a30af25e8619b403d05.jpg",
+    "static/media/program1.jfif": "/College/static/media/program1.614ac622dc97d2d2a977.jfif",
+    "static/media/cp5.jpg": "/College/static/media/cp5.6dcf8a9eb366678fa43f.jpg",
+    "static/media/cp2.jpg": "/College/static/media/cp2.4dede175686b6170c4dd.jpg",
+    "static/media/cp3.jpg": "/College/static/media/cp3.ca17bef5cc48d6e55383.jpg",
+    "static/media/cp6.jpg": "/College/static/media/cp6.c20cccd77713f1ed6d23.jpg",
+    "static/media/Aboutimg.jpg": "/College/static/media/Aboutimg.84700d151b3ef8a2fceb.jpg",
+    "static/media/user-4.jpg": "/College/static/media/user-4.92d63998975a5ccf68c5.jpg",
+    "static/media/mail.png": "/College/static/media/mail.47d24349ec5ffb4d411e.png",
+    "static/media/program2.jpg": "/College/static/media/program2.bccdaea5b5148dbfcff1.jpg",
+    "static/media/location.png": "/College/static/media/location.b720c84da4c5284de3e0.png",
+    "static/media/user-3.jpg": "/College/static/media/user-3.5405ce71516dfc118979.jpg",
+    "static/media/phone.png": "/College/static/media/phone.f03dd71d8d130be1d5ef.png",
+    "static/media/msg-icon.png": "/College/static/media/msg-icon.c7ea2bfd97ac002d55a8.png",
+    "static/media/diploma.png": "/College/static/media/diploma.fafb1ec8b379a8b4b972.png",
+    "static/media/user-1.jpg": "/College/static/media/user-1.d2ff2ee65586442cb6e9.jpg",
+    "static/media/graduation.png": "/College/static/media/graduation.d44f4c1d36845704d4b3.png",
+    "static/media/masters.png": "/College/static/media/masters.4aefe54c4920ec436b8d.png",
+    "static/media/cp4.jfif": "/College/static/media/cp4.dca95159bd2150c96717.jfif",
+    "static/media/program3.jfif": "/College/static/media/program3.f83092e96856d0d35b86.jfif",
+    "static/media/user-2.jfif": "/College/static/media/user-2.7b9d8cd9c3037635bdb9.jfif",
+    "index.html": "/College/index.html",
+    "main.6fb520a3.css.map": "/College/static/css/main.6fb520a3.css.map",
+    "main.859b2a05.js.map": "/College/static/js/main.859b2a05.js.map",
+    "488.5649a9e0.chunk.js.map": "/College/static/js/488.5649a9e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fb520a3.css",
+    "static/js/main.859b2a05.js"
+  ]
+}
