@@ -1,0 +1,172 @@
+
+.carousel-inner{
+    position: relative;
+    /* min-height: 50vw; */
+}
+ 
+
+.box{
+    position: absolute;
+    /* border: 2px solid green; */
+    background-color: rgba(0, 0, 139, 0.6);
+    color: white;
+    width: 100%;
+    height: 97vh;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-text{
+    color: white;
+    position: absolute;
+    opacity: 1;
+    z-index: 15;
+    text-align: center;
+}
+
+.home-text h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.home-text p{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.btn img{
+    width: 20px;
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
+
+
+/* Responsive styles */
+
+@media (max-width: 1005px){
+
+    .home-text{
+        margin-top: -89px;
+    }
+    .home-text h1{
+        font-size: 35px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .home-text p{
+        font-size: 18px;
+        margin: 6px;
+    }
+
+    .box{
+        height: 138vh;
+    }
+    
+}
+
+
+@media (max-width: 775px){
+
+
+    .home-text{
+        margin-top: -129px;
+    }
+
+    .home-text h1{
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .home-text p{
+        font-size: 15px;
+        margin: 6px;
+    }
+
+    .box{
+        height: 126vh;
+    }
+    
+}
+
+@media (max-width: 650px){
+    .carousel-inner{
+        padding-bottom: 40px;
+    }
+
+    .carousel-item img{
+        height: 270px;
+    }
+
+    .home-text{
+        margin-top: -1px;
+    }
+
+    .box{
+        height: 86vh;
+    }
+}
+
+@media (max-width: 580px){
+
+    .carousel-inner{
+        padding-bottom: 60px;
+    }
+
+    .carousel-item img{
+        height: 280px;
+    }
+
+    .home-text{
+        margin-top: -9px;
+    }
+
+    .home-text h1{
+        font-size: 27px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .home-text p{
+        font-size: 12px;
+        margin: 6px;
+    }
+
+    .box{
+        height: 89vh;
+    }
+    
+}
+
+@media (max-width: 520px){
+
+    .carousel-inner{
+        padding-bottom: 80px;
+    }
+
+    .carousel-item img{
+        height: 505px;
+    }
+    .home-text{
+        margin-top: -42px;
+    }
+
+    .home-text h1{
+        font-size: 26px;
+        font-weight: 600;
+        margin-bottom: 12px;
+    }
+
+    .home-text p{
+        font-size: 12px;
+        margin: 12px;
+    }
+
+    .box{
+        height: 70vh;
+    }
+    
+}
